@@ -75,3 +75,5 @@ O modelo estima um preço de aproximadamente R$ 686.448,23.
 - Matplotlib e Seaborn para visualizações
 - Statsmodels para modelagem estatística
 - Scikit-learn para divisão de dados e métricas de avaliação
+
+Projeto no Colab: https://colab.research.google.com/drive/1EeB4Q0cDkEufrPIpxFW2o0ApYPKkMuPw?authuser=1
